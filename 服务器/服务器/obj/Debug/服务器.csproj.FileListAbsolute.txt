@@ -1,0 +1,10 @@
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.csprojResolveAssemblyReference.cache
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.Form1.resources
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.Properties.Resources.resources
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.csproj.GenerateResource.Cache
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\bin\Debug\服务器.exe
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\bin\Debug\服务器.pdb
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.exe
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.pdb
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\obj\Debug\服务器.YcLj.resources
+G:\备份\VS2012源码\CoKE Sz\服务器\服务器\bin\Debug\服务器.exe.config

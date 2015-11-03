@@ -1,0 +1,18 @@
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\bin\Debug\客户端.exe
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\bin\Debug\客户端.pdb
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\obj\Debug\客户端.csprojResolveAssemblyReference.cache
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\obj\Debug\客户端.Properties.Resources.resources
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\obj\Debug\客户端.csproj.GenerateResource.Cache
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\obj\Debug\客户端.exe
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\obj\Debug\客户端.pdb
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\bin\Debug\客户端.exe.config
+G:\备份\VS2012源码\CoKE Sz\客户端\客户端\obj\Debug\客户端.Form1.resources
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\bin\Debug\客户端.exe.config
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\obj\Debug\客户端.exe
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\obj\Debug\客户端.csprojResolveAssemblyReference.cache
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\obj\Debug\客户端.Form1.resources
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\obj\Debug\客户端.Properties.Resources.resources
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\obj\Debug\客户端.csproj.GenerateResource.Cache
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\bin\Debug\客户端.exe
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\bin\Debug\客户端.pdb
+G:\备份\VS2012源码\CoKE Sz\客户端 - 副本\客户端\obj\Debug\客户端.pdb
